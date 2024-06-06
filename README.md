@@ -6,11 +6,9 @@ This report is our machine learning course project. We experimented with differe
 
 **Problem**: The challenge of making informed decisions when extending credit.    
 
-**Action**: Using benchmark and enhanced algorithms to predict credit default probability.  
-
-**Result**: Selecting the best model which is improved by over 20%.
-
-
+**Action**: Developing and improving benchmark models through cross-validation, SMOTE, and other preprocessing techniques to predict credit default probability.
 <img width="299" alt="image" src="https://github.com/wenchitseng/loan_default_forecasting/assets/145182368/3adaa3ad-7338-4fe4-aa2f-ad1e931c08df">
 <img width="282" alt="image" src="https://github.com/wenchitseng/loan_default_forecasting/assets/145182368/da227af7-91bd-4f6c-901f-48f2d0d2ee6f">
+
+**Result**: Selecting the best model (XGBoost) and using it as an interactive tool to evaluate the probability of loan default risk.
 
