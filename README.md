@@ -4,6 +4,8 @@ This report is our machine learning course project. We experimented with differe
 ## Overview
 ### Dataset: https://www.kaggle.com/datasets/nanditapore/credit-risk-analysis/data
 
-**Problem** The challenge of making informed decisions when extending credit.  
-**Action** Using benchmark and enhanced algorithms to predict credit default probability.  
-**Result** Selecting the best model which is improved by over 20%.
+**Problem: ** The challenge of making informed decisions when extending credit.    
+
+**Action: ** Using benchmark and enhanced algorithms to predict credit default probability.  
+
+**Result: ** Selecting the best model which is improved by over 20%.
