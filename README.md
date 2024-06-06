@@ -1,4 +1,4 @@
-# Loan default Forecasting
+# Loan Default Forecasting
 This report is our machine learning course project. We experimented with different machine learning models, including Logistic Regression, Random Forest, and XGBoost, and applied various preprocessing techniques to improve benchmarks. When users enter their information (age, income, employment status, loan intent, etc.) into the model, it outputs the likelihood of loan default.
 
 ## Overview
